@@ -10,3 +10,7 @@ Here I'll be keeping interactive graphs, data, and other things I feel would be 
 [Genotype Comparison Leaf Tissue 3' UTR Results (Week 1)](https://alexanderjhoward.github.io/Geno_Leaf_W1_UTR_Results.html)
 
 [Genotype Comparison Leaf Tissue 3' UTR Results (Week 2)](https://alexanderjhoward.github.io/Geno_Leaf_W2_UTR_Results.html)
+
+[Genotype Comparison Root Tissue 3' UTR Results (Week 1)](https://alexanderjhoward.github.io/Geno_Root_W1_UTR_Results.html)
+
+[Genotype Comparison Root Tissue 3' UTR Results (Week 2)](https://alexanderjhoward.github.io/Geno_Root_W2_UTR_Results.html)
