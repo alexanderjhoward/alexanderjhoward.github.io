@@ -1,4 +1,3 @@
-# Alexander Howard
 Interactive graphs, data, and scripts related to my work can be found here. Enjoy!
 
 [3' UTR Results Between Organs Under Control Treatment](https://alexanderjhoward.github.io/Control_Organ_Comparison_3UTR_Results.html)
