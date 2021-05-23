@@ -1,8 +1,7 @@
 ---
-title: 3'UTR Research
 layout: page
-filename: 3UTR_Research.md
-theme: jekyll-theme-tactile
+title: "3'UTR Research"
+permalink: /3UTR_Research/
 --- 
 [3' UTR Results Between Organs Under Control Treatment](https://alexanderjhoward.github.io/Control_Organ_Comparison_3UTR_Results.html)
 
