@@ -2,6 +2,7 @@
 title: 3'UTR Research
 layout: template
 filename: 3UTR_Research.md
+theme: jekyll-theme-tactile
 --- 
 [Home](https://alexanderjhoward.github.io)
 
