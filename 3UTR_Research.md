@@ -1,6 +1,3 @@
-layout: page
-title: "3'UTR Research"
-permalink: /3UTR_Research/
 [Home](https://alexanderjhoward.github.io)
 
 [3' UTR Results Between Organs Under Control Treatment](https://alexanderjhoward.github.io/Control_Organ_Comparison_3UTR_Results.html)
