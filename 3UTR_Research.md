@@ -1,6 +1,6 @@
 ---
 title: 3'UTR Research
-layout: template
+layout: page
 filename: 3UTR_Research.md
 theme: jekyll-theme-tactile
 --- 
