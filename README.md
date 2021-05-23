@@ -1,6 +1,6 @@
 Interactive graphs, data, and scripts related to my work can be found here. Enjoy!
 
-[3'UTR Research](alexanderjhoward.github.io/3UTR_Research)
+[3'UTR Research](https://alexanderjhoward.github.io/3UTR_Research)
 
 [3' UTR Results Between Organs Under Control Treatment](https://alexanderjhoward.github.io/Control_Organ_Comparison_3UTR_Results.html)
 
