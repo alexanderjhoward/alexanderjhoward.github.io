@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 title: Alexander Howard
 description: Professional graphics and data analysis
+markdown: kramdown
