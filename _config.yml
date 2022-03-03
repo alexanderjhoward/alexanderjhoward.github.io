@@ -3,7 +3,7 @@ title: Alexander Howard
 description: Professional graphics and data analysis
 markdown: kramdown
 .site-title::before {
-content: url("/Logo.jpg");
+content: url("/Logo.JPG");
 display: inline-block;
 position: relative;
 width: 35px;
