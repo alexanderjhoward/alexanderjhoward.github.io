@@ -1,6 +1,4 @@
-Interactive graphs, data, and scripts related to my work can be found here. Enjoy!
-
-[3'UTR Research](https://alexanderjhoward.github.io/3UTR_Research)
+The following is a portfolio of previous work I have done related to bioinformatics, data analysis, and interactive graphic design. Enjoy!
 
 [Vitis Roots Utilize a Conserved 3’UTR Response Pattern Under Water Deficit Conditions](https://alexanderjhoward.github.io/3UTR_Project.html)
 
