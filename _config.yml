@@ -2,3 +2,10 @@ theme: jekyll-theme-minimal
 title: Alexander Howard
 description: Professional graphics and data analysis
 markdown: kramdown
+.site-title::before {
+content: url("/Logo.jpg");
+display: inline-block;
+position: relative;
+width: 35px;
+top: 5px;
+}
