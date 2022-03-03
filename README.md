@@ -1,4 +1,4 @@
-The following is a portfolio of previous work I have done related to bioinformatics, data analysis, and interactive graphic design. Enjoy!
+This site hosts a portfolio of previous work I have done related to bioinformatics, data analysis, and interactive graphic design. Enjoy!
 
 [Vitis Roots Utilize a Conserved 3’UTR Response Pattern Under Water Deficit Conditions](https://alexanderjhoward.github.io/3UTR_Project.html)
 
